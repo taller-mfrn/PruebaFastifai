@@ -1,0 +1,22 @@
+{
+  "name": "trivial",
+  "version": "1.0.0",
+  "description": "A foo program running in node because foo is heavier than bar",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "test",
+    "clase",
+    "taller",
+    "libre",
+    "foo"
+  ],
+  "author": "VadokDev",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.3.0",
+    "fastify-mysql": "^0.2.0"
+  }
+}
